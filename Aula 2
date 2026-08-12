@@ -1,0 +1,6 @@
+
+def main()
+print("Teste")
+
+if__name__==__main__:
+  main()
